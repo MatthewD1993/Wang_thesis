@@ -7,3 +7,5 @@ Download anaconda from https://docs.anaconda.com/anaconda/install/index.html
 `conda activate w_thesis`
 ## Install requriements
 `python -m pip install -r requirements.txt`
+## Run jupyter notebook
+ `jupyter notebook`
